@@ -12,8 +12,8 @@
   <a href="https://go.dev">
     <img src="https://skillicons.dev/icons?i=go" />
   </a>
-  <a href="https://isocpp.org">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+  <a href="https://linux.org">
+    <img src="https://skillicons.dev/icons?i=linux" />
   </a>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=c" />
