@@ -1,8 +1,11 @@
 
-## Halo! I'm Sajjad Momen!
+## Hello ! I'm Sajjad Momen!
 
 <h3>Languages, Database, Tools</h3>
 <p>
+  <a href="https://www.lua.org">
+    <img src="https://skillicons.dev/icons?i=lua" />
+  </a>
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
